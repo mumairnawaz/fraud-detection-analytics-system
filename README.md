@@ -65,22 +65,31 @@ The system was implemented in multiple stages:
 
 ### 1. Data Ingestion
 - Imported transaction data from CSV into SQL Server  
-- Created structured schema for transaction storage  
+- Created structured schema for transaction storage
+
+<p align="center">
+  <img src="images/Excel%20Descriptive%20Analysis.jpg" width="92%">
+</p>
 
 ### 2. Data Cleaning & Validation (SQL Server)
 - Removed duplicate transactions using window functions  
 - Handled missing values using median and mode strategies  
 - Standardized categorical fields (card type, merchant category, etc.)  
-- Validated fraud flags and transaction values  
+- Validated fraud flags and transaction values
 
-### 3. Query Optimization
-- Applied indexing and partitioning for performance  
-- Optimized queries for large transaction volumes  
+  <p align="center">
+  <img src="images/SQL%20Server.jpg" width="92%">
+</p>
 
-### 4. Real-Time Integration (Power BI)
+
+### 3. Real-Time Integration (Power BI)
 - Connected SQL Server using DirectQuery  
 - Enabled real-time data refresh without duplication  
 - Built DAX-based KPIs for fraud analysis
+
+  <p align="center">
+  <img src="dashboard/Fraud%20Detection%20Analytics.jpg" width="92%">
+</p>
   
 
 </td></tr>
