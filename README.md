@@ -133,9 +133,6 @@ Key analytical views:
   <img src="images/Fraud%20Detection.png" width="92%">
 </p>
 
-<p align="center">
-  <img src="images/dashboard_details.png" width="92%">
-</p>
 
 
 
