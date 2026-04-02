@@ -52,14 +52,7 @@ The solution focuses on:
 
 This transformed the workflow from manual analysis to an automated, data-driven system.
 
-Data Automation
-(SQL ETL Pipeline)
-        ↓
-Fraud Reporting
-(Power BI Dashboard)
-        ↓
-Continuous Monitoring
-(Real-Time Tracking & Alerts)
+
 
 </td></tr>
 </table>
@@ -158,8 +151,10 @@ Key analytical views:
 
 ---
 
+
 <table width="90%" align="center">
 <tr><td>
+
 
 # Business Impact
 
@@ -173,6 +168,7 @@ The implemented system significantly improved fraud detection capabilities:
 This transformed the system from:
 
 Reactive fraud detection → Proactive risk monitoring
+
 
 </td></tr>
 </table>
