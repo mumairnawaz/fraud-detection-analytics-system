@@ -13,8 +13,7 @@
 
 ---
 
-<table width="90%" align="center">
-<tr><td>
+
 
 # Problem
 
@@ -30,14 +29,12 @@ This created multiple technical and business issues:
 
 The system was reactive rather than proactive, making it difficult to identify and prevent fraudulent transactions efficiently.
 
-</td></tr>
-</table>
+
 
 ---
 
 
-<table width="90%" align="center">
-<tr><td>
+
 
 # Solution Overview
 
@@ -54,14 +51,12 @@ This transformed the workflow from manual analysis to an automated, data-driven 
 
 
 
-</td></tr>
-</table>
+
 
 ---
 
 
-<table width="90%" align="center">
-<tr><td>
+
 
 # Technical Implementation
 
@@ -96,15 +91,13 @@ The system was implemented in multiple stages:
 </p>
   
 
-</td></tr>
-</table>
+
 
 
 ---
 
 
-<table width="90%" align="center">
-<tr><td>
+
 
 # Data Pipeline Architecture
 
@@ -116,13 +109,11 @@ Raw CSV Data → SQL Server (Cleaning & ETL) → Power BI Dashboard → Real-Tim
   <img src="images/etl%20flow.png" width="92%">
 </p>
 
-</td></tr>
-</table>
+
 
 ---
 
-<table width="90%" align="center">
-<tr><td>
+
 
 # Analytics & Dashboard
 
@@ -146,14 +137,12 @@ Key analytical views:
   <img src="images/dashboard_details.png" width="92%">
 </p>
 
-</td></tr>
-</table>
+
 
 ---
 
 
-<table width="90%" align="center">
-<tr><td>
+
 
 
 # Business Impact
@@ -170,5 +159,4 @@ This transformed the system from:
 Reactive fraud detection → Proactive risk monitoring
 
 
-</td></tr>
-</table>
+
