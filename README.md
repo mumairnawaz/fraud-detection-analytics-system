@@ -87,7 +87,7 @@ The system was implemented in multiple stages:
 - Built DAX-based KPIs for fraud analysis
 
   <p align="center">
-  <img src="dashboard/Fraud%20Detection%20Analytics.jpg" width="92%">
+  <img src="dashboard/Dashboard%20Play.mp4" width="92%">
 </p>
   
 
