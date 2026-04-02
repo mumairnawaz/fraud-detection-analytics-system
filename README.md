@@ -1,5 +1,9 @@
 # 💳 Fraud Detection & Risk Monitoring System (SQL Server + Power BI)
 
+<p align="center">
+  <img src="images/Dashbaord%20Cover.png" width="92%">
+</p>
+
 ## Table of Contents
 
 - [Problem](#problem)
