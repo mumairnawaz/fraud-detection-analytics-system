@@ -1,8 +1,6 @@
 # 💳 Fraud Detection & Risk Monitoring System (SQL Server + Power BI)
 
-<p align="center">
-  <img src="images/Dashbaord%20Cover.png" width="92%">
-</p>
+
 
 ## Table of Contents
 
@@ -53,6 +51,15 @@ The solution focuses on:
 - Building an interactive dashboard for fraud monitoring  
 
 This transformed the workflow from manual analysis to an automated, data-driven system.
+
+Data Automation
+(SQL ETL Pipeline)
+        ↓
+Fraud Reporting
+(Power BI Dashboard)
+        ↓
+Continuous Monitoring
+(Real-Time Tracking & Alerts)
 
 </td></tr>
 </table>
