@@ -1,4 +1,4 @@
-# 💳 Fraud Detection & Risk Monitoring System (SQL Server + Power BI)
+# 💳 Fraud Detection & Risk Monitoring System (SQL + Power BI)
 
 
 
