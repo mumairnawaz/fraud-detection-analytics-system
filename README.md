@@ -33,6 +33,7 @@ The system was reactive rather than proactive, making it difficult to identify a
 
 ---
 
+
 <table width="90%" align="center">
 <tr><td>
 
@@ -83,7 +84,9 @@ The system was implemented in multiple stages:
 </td></tr>
 </table>
 
+
 ---
+
 
 <table width="90%" align="center">
 <tr><td>
@@ -95,7 +98,7 @@ The system follows a structured ETL pipeline:
 Raw CSV Data → SQL Server (Cleaning & ETL) → Power BI Dashboard → Real-Time Fraud Monitoring
 
 <p align="center">
-  <img src="images/etl_pipeline.png" width="92%">
+  <img src="images/etl%20flow.png" width="92%">
 </p>
 
 </td></tr>
@@ -121,7 +124,7 @@ Key analytical views:
 - Transaction behavior across device and mode  
 
 <p align="center">
-  <img src="images/dashboard_overview.png" width="92%">
+  <img src="images/Fraud%20Detection.png" width="92%">
 </p>
 
 <p align="center">
