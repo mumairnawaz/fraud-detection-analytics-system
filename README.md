@@ -55,6 +55,7 @@ This transformed the workflow from manual analysis to an automated, data-driven 
 
 ---
 
+
 <table width="90%" align="center">
 <tr><td>
 
@@ -79,7 +80,8 @@ The system was implemented in multiple stages:
 ### 4. Real-Time Integration (Power BI)
 - Connected SQL Server using DirectQuery  
 - Enabled real-time data refresh without duplication  
-- Built DAX-based KPIs for fraud analysis  
+- Built DAX-based KPIs for fraud analysis
+  
 
 </td></tr>
 </table>
