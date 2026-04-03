@@ -1,1 +1,4 @@
-*.sql linguist-language=sql
+*.sql linguist-language=*.sql 
+*.csv linguist-vendored
+*.pbix lingusit-vendored 
+*.jgp linguist-vendored 
