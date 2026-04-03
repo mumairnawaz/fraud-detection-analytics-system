@@ -1,0 +1,11 @@
+sql/
+│
+├── staging_table_setup.sql
+├── data_loading_staging.sql
+├── staging_data_quality_checks.sql
+├── production_table_creation.sql
+├── etl_staging_to_production.sql
+├── post_load_validation.sql
+├── data_cleaning_enhancement.sql
+├── indexing_performance.sql
+├── fraud_detection_analysis.sql
