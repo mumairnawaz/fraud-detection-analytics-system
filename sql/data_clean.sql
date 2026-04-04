@@ -1,4 +1,4 @@
--- Fill missing Merchant_Category
+-- Fill missing Merchant_Cat 
 UPDATE Transactions
 SET Merchant_Category = 'UNKNOWN'
 WHERE Merchant_Category IS NULL;
