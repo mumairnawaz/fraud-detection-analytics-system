@@ -1,4 +1,2 @@
-
-*.csv linguist-vendored
-*.pbix lingusit-vendored 
-*.jgp linguist-vendored 
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
